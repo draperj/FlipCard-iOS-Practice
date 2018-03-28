@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  PlayingCard
 //
-//  Created by Joshua Draper on 3/19/18.
-//  Copyright © 2018 Joshua Draper. All rights reserved.
+//  Created by CS193p Instructor on 10/9/17.
+//  Copyright © 2017 CS193p Instructor. All rights reserved.
 //
 
 import UIKit
